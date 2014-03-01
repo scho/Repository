@@ -3,14 +3,11 @@ using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
-using System.Data.Objects;
 using System.Data.SqlClient;
+using System.Data.Entity.Core.Objects;
 using System.Linq;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 using Microsoft.Samples.EntityDataReader;
-using NUnit.Framework;
 
 namespace Repository.EntityFramework
 {
